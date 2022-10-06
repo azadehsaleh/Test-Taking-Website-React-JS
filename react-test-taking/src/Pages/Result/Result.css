@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+
+.result{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+}
+
+.result span{
+    color: #fff;
+    font-family: 'Alkalami', serif;
+    font-weight: 300;
+}

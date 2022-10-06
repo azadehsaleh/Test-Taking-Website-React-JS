@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+
+.test{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Alkalami', serif;
+}
+
+.welcome-text{
+    font-size: 35px;
+    padding: 5px 10px;
+    color: #fff;
+    margin: 20px;
+    text-transform: uppercase;
+}
+
+.testInfo{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    text-transform: uppercase;
+    margin: 10px;
+    padding: 20px 80px;
+    color: #fff;
+    font-size: 20px;
+    background-color: #000;
+    text-align: center;
+}
